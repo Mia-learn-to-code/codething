@@ -4,3 +4,4 @@ for (let step = 1; step <= 12; step++){
 }
 console.log ("=============");
 console.log("Robot turn around")
+console.log("Done")
